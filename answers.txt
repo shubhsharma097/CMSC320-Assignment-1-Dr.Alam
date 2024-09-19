@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: The purpose of Git is to manage source code. A developer might consider using git in order to clearly organize and keep track of the changes made to their project, so if something ever breaks they can go back to prior versions. 
+
