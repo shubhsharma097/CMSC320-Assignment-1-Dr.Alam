@@ -12,3 +12,7 @@ Answer: Data Science is a subject which can be applied to many different fields.
 Q3: What is the difference between merging and rebasing?
 
 Answer: The difference between rebasing and merging is that rebasing is much cleaner because it updates the start of your current branch to a commit which happened later on, while merging helps to store the repository's full history.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: During my time in this course I hope to not only gain python and sql skills but also improve my critical thinking and analysis skills which I would be able to use in my future.
